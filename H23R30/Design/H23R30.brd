@@ -185,8 +185,8 @@
 <text x="27.36" y="47.19" size="1.27" layer="22" font="vector" rot="MR325" align="center">GND</text>
 <text x="44.46" y="40.3" size="1.9304" layer="21" font="vector" align="center">P1</text>
 <text x="44.46" y="40.3" size="1.9304" layer="22" font="vector" rot="MR0" align="center">P1</text>
-<text x="44.46" y="28.94" size="1.9304" layer="21" font="vector" align="center">P2</text>
-<text x="44.46" y="28.94" size="1.9304" layer="22" font="vector" rot="MR0" align="center">P2</text>
+<text x="44.339" y="29.093" size="1.9304" layer="21" font="vector" rot="R45" align="center">P2*</text>
+<text x="44.206" y="28.94" size="1.9304" layer="22" font="vector" rot="MR315" align="center">P2*</text>
 <text x="34.62" y="22.46" size="1.9304" layer="21" font="vector" align="center">P3</text>
 <text x="34.62" y="22.46" size="1.9304" layer="22" font="vector" rot="MR0" align="center">P3</text>
 <text x="25.8976" y="41.3414" size="1.9304" layer="21" font="vector" align="center">P4</text>
