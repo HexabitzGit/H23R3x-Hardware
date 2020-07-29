@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-07-29T13:21:51Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "H23R30"
+        },
+        "Owner": "salah souda <modi.sodah@gmail.com>",
+        "Size": {
+            "X": 34.64,
+            "Y": 30
+        }
+    }
+}
