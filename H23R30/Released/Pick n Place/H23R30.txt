@@ -1,4 +1,4 @@
-Partlist exported from D:/Work Project/HexaBitz PCB/H23R3x-Hardware-master/H23R30/Design/H23R30.sch at 7/29/2020 4:21 PM
+Partlist exported from D:/Work Project/HexaBitz PCB/H23R3x-Hardware-master/H23R30/Design/H23R30.sch at 4/18/2021 2:48 PM
 
 Qty Value                       Device                      Package                     Parts                    Description                                                                                                CAPACITANCE MFN                 MPN                OCTOPART_URL                                                                                 RESISTANCE TOLERANCE VALUE VOLTAGE_RATING
 1   0.0R                        R-0603                      R-0603                      R2                       Thick Film Resistors - SMD 0603                                                                                        Yageo               RC0603JR-070RL     https://octopart.com/rc0603jr-070rl-yageo-1241539?r=sp&s=X2NteqRjRNWrnx42Y0aliA              0.0 Ohm                                  
