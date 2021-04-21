@@ -193,7 +193,7 @@
 <text x="24.78" y="40.3" size="1.9304" layer="22" font="vector" rot="MR0" align="center">P4</text>
 <text x="34.62" y="46.78" size="1.9304" layer="21" font="vector" align="center">P5</text>
 <text x="34.62" y="46.78" size="1.9304" layer="22" font="vector" rot="MR0" align="center">P5</text>
-<text x="34.6964" y="25.550875" size="1.9304" layer="22" font="vector" rot="MR180" align="center">H23R31</text>
+<text x="34.6964" y="25.550875" size="1.9304" layer="22" font="vector" rot="MR180" align="center">H23R30</text>
 <rectangle x1="40.64126875" y1="33.582103125" x2="40.656" y2="33.596834375" layer="21"/>
 <rectangle x1="40.523415625" y1="33.596834375" x2="40.670734375" y2="33.611565625" layer="21"/>
 <rectangle x1="40.405559375" y1="33.611565625" x2="40.670734375" y2="33.626296875" layer="21"/>
